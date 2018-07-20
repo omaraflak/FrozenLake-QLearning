@@ -38,6 +38,7 @@ for i in range(episodes):
             epsilon *= epsilonDecay
 
 
+print("")
 print("Learning Rate :", lr)
 print("Epsilon :", epsilon)
 
